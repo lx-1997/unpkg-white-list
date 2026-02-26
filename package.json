@@ -19020,6 +19020,9 @@
     "aws-cdk-lib": {
       "version": "*"
     },
+    "node-red-node-rdk-tools": {
+      "version": "*"
+    },
     "cline": {
       "version": "*"
     },
