@@ -19065,9 +19065,6 @@
     "node-win-x86": {
       "version": "*"
     },
-    "node-red-node-rdk-tools": {
-      "version": "*"
-    },
     "onnxruntime-node": {
       "version": "*"
     },
