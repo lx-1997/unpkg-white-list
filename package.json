@@ -19055,7 +19055,7 @@
     },
     "node-linux-x64": {
       "version": "*"
-    },   
+    },
     "node-red-node-rdk-tools": {
       "version": "*"
     },
